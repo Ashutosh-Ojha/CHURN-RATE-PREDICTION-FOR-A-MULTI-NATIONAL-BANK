@@ -1,5 +1,5 @@
 # Customer Churn Rate Prediction
-Predicting the churn rate of customers of a multi-national bank with the help of following observations:
+Predicting the churn rate of customers of a multi-national bank after which we get the following observations in the dataset:
 
 1) Both gender have shown almost similar patterns. There is not much difference in their income or behaviour.
 2) Number of customers in 'Insufficient Balance' category is astronomical, but almost None comes from Germany.
